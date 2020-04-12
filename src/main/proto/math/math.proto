@@ -1,0 +1,30 @@
+syntax = "proto3";
+
+package math;
+
+option java_package = "ru.kpfu.grpc.generated";
+option java_multiple_files = true;
+
+
+message MathNumber {
+    double number = 1;
+};
+
+message MathRequest {
+    MathNumber number = 1;
+};
+
+message MathResponse {
+    double result = 1;
+};
+
+service MathService {
+
+    rpc sqrt (MathRequest) returns (MathResponse) {};
+
+    rpc std (stream MathRequest) returns (MathResponse) {};
+
+    rpc simpleFactors (MathRequest) returns (stream MathResponse) {};
+
+    rpc maxNum (stream MathRequest) returns (stream MathResponse) {};
+};

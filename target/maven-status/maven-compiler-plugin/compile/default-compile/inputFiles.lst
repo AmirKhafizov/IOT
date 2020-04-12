@@ -1,0 +1,12 @@
+/Users/isko/Downloads/grpc-1/src/main/java/ru/kpfu/server/MathServerImpl.java
+/Users/isko/Downloads/grpc-1/src/main/java/ru/kpfu/server/MathServer.java
+/Users/isko/Downloads/grpc-1/src/main/java/ru/kpfu/utils/InputUtil.java
+/Users/isko/Downloads/grpc-1/target/generated-sources/protobuf/java/ru/kpfu/grpc/generated/MathRequest.java
+/Users/isko/Downloads/grpc-1/target/generated-sources/protobuf/java/ru/kpfu/grpc/generated/MathResponseOrBuilder.java
+/Users/isko/Downloads/grpc-1/target/generated-sources/protobuf/java/ru/kpfu/grpc/generated/MathRequestOrBuilder.java
+/Users/isko/Downloads/grpc-1/src/main/java/ru/kpfu/client/MathClient.java
+/Users/isko/Downloads/grpc-1/target/generated-sources/protobuf/java/ru/kpfu/grpc/generated/MathNumberOrBuilder.java
+/Users/isko/Downloads/grpc-1/target/generated-sources/protobuf/java/ru/kpfu/grpc/generated/MathResponse.java
+/Users/isko/Downloads/grpc-1/target/generated-sources/protobuf/java/ru/kpfu/grpc/generated/Math.java
+/Users/isko/Downloads/grpc-1/target/generated-sources/protobuf/grpc-java/ru/kpfu/grpc/generated/MathServiceGrpc.java
+/Users/isko/Downloads/grpc-1/target/generated-sources/protobuf/java/ru/kpfu/grpc/generated/MathNumber.java
